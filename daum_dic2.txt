@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>information &ndash; 다음 영어사전 (Daum Korean English dictionary)</title>
+    
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="noindex, nofollow">
+<meta property="og:image" content="http://t1.daumcdn.net/thumb/P270x270/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flanguage%2Fcommon_icon%2F557565CB040E530001"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Daum 사전"/>
+<meta property="og:description" content="1.&#51221;&#48372; 2.&#51088;&#47308; 3.&#45684;&#49828; 4.&#50504;&#45236; 5.&#48372;&#46020; "/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Daum 사전" />
+<meta name="twitter:site" content="" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:description" content="1.&#51221;&#48372; 2.&#51088;&#47308; 3.&#45684;&#49828; 4.&#50504;&#45236; 5.&#48372;&#46020; " />
+<meta name="twitter:image" content="http://t1.daumcdn.net/thumb/P270x270/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flanguage%2Fcommon_icon%2F557565CB040E530001"/>
+
+
+<meta name="tiara:deployment" content="production"/>
+
+
+<meta name="tiara:svcdomain" content="dic.daum.net"/>
+
+
+<meta name="tiara:custom-properties" content='{ "dic_type": "eng" }'/>
+
+
+<meta name="tiara:page" content="view"/>
+ <link rel="search" type="application/opensearchdescription+xml" href="/OpenSearch.xml" title="다음사전">
+
+
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/language/cssjs/9be7e9f/css/h.css" />
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/language/cssjs/9be7e9f/css/font.css" />
+
+
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/language/cssjs/9be7e9f/css/yethangul-font.css" />
+
+
+
+
+<meta name="format-detection" content="telephone=no" />
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//t1.daumcdn.net/cssjs/jquery/jquery-1.11.1.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="//t1.daumcdn.net/cssjs/jquery/jquery-2.1.1.min.js"></script>
+<!--<![endif]-->
+
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/tiara.js"></script>
+
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/jquery.validate.min.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/jquery.cookie.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/jquery.sticky.custom.js"></script>
+
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/suggest.pc.js"></script>
+
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/userAgent.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/web2app-1.0.12.min.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.util.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.common.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.common.app.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.input.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.handwrite.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.wordbook.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.feedback.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.audioPlayer.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.wordLayer.js"></script>
+
+<script type="text/javascript" src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/language.view.js"></script>
+
+
+
+ 
+<script type="text/javascript">
+	var contextRoot = '';
+	var appUrlSchemeFormat = '';
+
+	jQuery(document).ready(function() {
+		language.common.init({
+			environment: 'production',
+			deviceType: 'PC',
+			dic: 'eng',
+			suggestInfo: { host: 'suggest.dic.daum.net', uri: '/language/v1/search.json', dic: 'eng' },
+			sectionId : 'view',
+			osName : 'unknown',
+			wordPronFileUrl : 'http://t1.daumcdn.net/language/4F712D3606301F02AC',
+			supid : '',
+			query : "information"
+		});
+	});
+</script>
+
+<!--[if IE]>
+<script type="text/javascript">
+	var newEls = ["header", "nav", "section", "footer", "aside", "figcaption", "figure", "article"];
+	var len = newEls.length;
+	for (i = 0; i < len; i++) {
+		document.createElement(newEls[i]);
+	}
+</script>
+<![endif]-->
+</head>
+<body data-os="unknown">
+	<div id="kakaoIndex" class="k_direct">
+		<a href="#kakaoGnb" class="link_direct">메뉴 바로가기</a>
+		<a href="#kakaoContent" class="link_direct">본문 바로가기</a>
+	</div>
+	<div id="kakaoWrap" class="cont_detail cont_kuek">
+				<div id="kakaoHead" role="banner" class="k_head">
+							                    
+
+<div id="commonHeader" class="inner_head">
+	<h1>
+	<a href="http://www.daum.net/?nil_profile=mini&nil_src=daum" id="kakaoServiceLogo" class="link_logo">	
+		<img src="//t1.daumcdn.net/language/common_icon/gnb_daum_logo.png" width="55" height="22" alt="Daum">
+	</a>
+	<a href="/index.do?dic=eng" class="link_service service_eng"><span class="ir_wa">영어</span></a>
+	</h1>
+	    <div class="gnb_input">
+    	<form id="daumSearch" class="form_dicsearch" method="get">
+    		<input type="hidden" name="type" value="eng">
+    		<fieldset class="fld_dicsearch">
+    		<legend class="screen_out">검색폼</legend>
+    		<div class="box_searchbar">
+    			<label class="screen_out" for="q">어학사전 검색창</label>
+    			    			    			    							<input id="q" autocomplete="off" name="q" value="information" class="tf_keyword" title="검색어 입력"  type="text">
+    			<button type="submit" id="daumBtnSearch" class="btn_search">
+    				<span class="img_comm ico_search">검색하기</span>
+    			</button>
+    		</div>
+    		<div id="wrap_suggestBox" class="wrap_suggestBox"></div>
+			<div id="recentWordLayer" class="wrap_suggestBox" style="display: none;">
+				<div class="suggestBox  recent_suggest">
+					<p id="recentWordNoResult" class="txt_norecent" style="display:none">최근검색어 내역이 없습니다.</p>
+					<ul id="recentWords" class="list_suggest"></ul>
+					<div class="foot_suggest">
+						<button id="toggleRecentWords" class="txt_recent" type="button"><span class="img_comm"></span><span id="toggleRecentWordsText">최근검색어끄기</span></button>
+						<button id="deleteRecentWords" class="txt_recent" type="button">전체삭제</button>
+					</div>
+				</div>
+			</div>
+    		</fieldset>
+    	</form>
+    	    	
+    	
+
+    </div> <!--// gnb_input-->
+		<h2 class="screen_out">메뉴</h2>
+	<div id="kakaoGnb" role="navigation">
+		<ul class="list_dicservice">
+					<li>
+			<a href="#none" id="moreDictionary" class="link_menu">다른 사전<span class="img_comm ico_arrow"></span></a><span class="txt_bar">|</span>
+			<!-- 메뉴 레이어 -->
+			<div class="gnb_more_layer font_dt" id="layerMoreDictionary" style="display:none; right:366px">
+				<div class="inner_gnb_more_layer">
+					<div class="layer_head screen_out">어학사전 언어 리스트</div>
+					<div class="layer_body">
+						<div class="inner_body">
+							<strong class="screen_out">첫번째 사전목록</strong>
+							<ul class="list_dic list_dic_type1 fst">
+								<li><a class="link_dic" href="/search.do?q=information&dic=all">전체언어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=eng">영어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=ee">English</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=kor">한국어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=jp">일본어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=ch">중국어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=hanja">한자</a></li>
+							</ul>
+							<strong class="screen_out">두번째 사전목록</strong>
+							<ul class="list_dic">
+								<li><a class="link_dic" href="/search.do?q=information&dic=vi">베트남어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=id">인도네시아어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=it">이탈리아어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=fr">프랑스어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=tr">터키어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=th">태국어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=pl">폴란드어</a></li>
+							</ul>
+							<strong class="screen_out">세번째 사전목록</strong>
+							<ul class="list_dic">
+								<li><a class="link_dic" href="/search.do?q=information&dic=pt">포르투갈어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=cs">체코어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=hu">헝가리어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=ar">아랍어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=sv">스웨덴어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=hi">힌디어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=nl">네덜란드어</a></li>
+							</ul>
+							<strong class="screen_out">네번째 사전목록</strong>
+							<ul class="list_dic list_dic_type1">
+								<li><a class="link_dic" href="/search.do?q=information&dic=fa">페르시아어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=sw">스와힐리어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=ro">루마니아어</a></li>
+								<li><a class="link_dic" href="/search.do?q=information&dic=ru">러시아어</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div> <!-- layerMoreDictionary -->
+		</li>
+			<li><a href="http://wordbook.daum.net/index.do?dic_type=endic" class="link_menu">단어장</a><span class="txt_bar">|</span></li>
+			<li><a href="/" class="link_menu">사전홈</a><span class="txt_bar">|</span></li>
+			<li><a href="http://translate.kakao.com" target="_blank" class="link_menu">번역<span class="img_comm img_beta">beta</span></a></li>
+		</ul>
+	</div> <!-- kakaoGnb -->
+</div>
+									</div> <!-- //kakaoHead -->
+		<hr class="hide">
+		<div id="kakaoContent" tabindex="0">
+			<!--[if lt IE 9]>
+<div class="notice_upgrade" style="display:none">
+<strong class="tit_notice">사용하시는 <em class="txt_em">Internet Explorer 8</em> 에서는 사전 서비스가 원활히 보이지 않을 수 있습니다.</strong>
+<p class="desc_notice">최신 버젼으로 업그레이드하시면 쾌적한 환경에서 이용하실  수 있습니다. <a href="http://windows.microsoft.com/ko-kr/internet-explorer/download-ie" target="_blank" class="link_upgrade">업그레이드 하기</a></p>
+</div>
+<![endif]-->
+ 	
+
+ 				  								
+<div id="mSub" class="detail_top">
+	<div class="inner_top">
+		<h2 class="screen_out">사전 본문</h2>
+		<div class="clean_word">
+			<h3 class="tit_cleanword">
+			<span class="txt_cleanword">information
+</span>
+												<span class="summit_txt">
+														<span class="img_comm ico_star ico_star3" title="중학교기본어">중학교기본어</span>
+																</span>
+												</h3>
+									
+			<a href="#none" name="goDaumLogin" data-dic="en" data-wordid="ekw000086096" data-wordbooktype="endic" data-cleanword="information" class="img_btn btn_straight">바로저장</a>
+			<a href="#none" name="goDaumLogin" data-dic="en" data-wordid="ekw000086096" data-wordbooktype="endic" data-cleanword="information" class="img_btn btn_save">단어장<span class="screen_out">선택</span></a>
+			<a href="#none" name="addedToWordbook" data-wordid="ekw000086096" data-wordbookid="" data-wordbooktype="endic" class="img_btn btn_save_on" style="display:none">단어장 저장 <span class="screen_out">완료</span></a>
+			
+			 		</div> 		 						<ul class="list_mean" >
+													 <li><span class="num_mean">1.</span><span class="txt_mean"><daum:word id="kew000064131">정보</daum:word></span></li><li><span class="num_mean">2.</span><span class="txt_mean"><daum:word id="kew000060309">자료</daum:word></span></li><li><span class="num_mean">3.</span><span class="txt_mean"><daum:word id="kew000015927">뉴스</daum:word></span></li><li><span class="num_mean">4.</span><span class="txt_mean"><daum:word id="kew000047513">안내</daum:word></span></li><li><span class="num_mean">5.</span><span class="txt_mean"><daum:word id="kew000032196">보도</daum:word></span></li>									</ul>
+				
+						<div class="annex_word">
+			   																																																																		<div class="word_nation word_voice">
+														<em class="txt_nation">미국<span class="txt_pronounce">[ìnf<daum:pron>ə</daum:pron><daum:italic>r</daum:italic>méi<daum:pron>ʃ</daum:pron><daum:pron>ə</daum:pron>n]</span>
+																<span class="listen_voice">
+									<a href="http://t1.daumcdn.net/language/4F712D3606301F02AC" data-audio data-url="http://t1.daumcdn.net/language/4F712D3606301F02AC" data-count="2" data-toggle-class="btn_voice_on" class="btn_voice btn_listen"><span class="img_comm ico_listen">듣기</span></a>
+									<a href="http://t1.daumcdn.net/language/4F712D3606301F02AC" data-audio data-url="http://t1.daumcdn.net/language/4F712D3606301F02AC" data-count="-1" data-on-class="btn_voice btn_pause btn_voice_on" data-off-class="btn_voice btn_refresh" class="btn_voice btn_refresh"><span class="img_comm ico_refresh">반복듣기</span></a>
+								</span>
+															</em>
+													</div>
+						<div class="word_nation word_voice">
+							<em class="txt_nation">영국<span class="txt_pronounce">[ìnf<daum:pron>ə</daum:pron><daum:italic>r</daum:italic>méi<daum:pron>ʃ</daum:pron><daum:pron>ə</daum:pron>n]</span>	
+																<span class="listen_voice">
+									<a href="http://t1.daumcdn.net/language/4F71533D012FE102ED" data-audio data-url="http://t1.daumcdn.net/language/4F71533D012FE102ED" data-count="2" data-toggle-class="btn_voice_on" class="btn_voice btn_listen"><span class="img_comm ico_listen">듣기</span></a>
+									<a href="http://t1.daumcdn.net/language/4F71533D012FE102ED" data-audio data-url="http://t1.daumcdn.net/language/4F71533D012FE102ED" data-count="-1" data-on-class="btn_voice btn_pause btn_voice_on" data-off-class="btn_voice btn_refresh" class="btn_voice btn_refresh"><span class="img_comm ico_refresh">반복듣기</span></a>
+								</span>
+															</em>
+													</div>
+												 									 				
+			 		</div>		 		
+		<div class="straight_link">
+										<a href="#none" class="link_straight examples">예문<span class="img_comm"></span></a>
+													<a href="#none" class="link_straight families">관련어<span class="img_comm"></span></a>
+						<a href="/search.do?q=information&dic=eng&search_first=Y" class="link_other">다른 검색결과<span class="img_comm"></span></a>
+		</div>
+	</div></div><div id="mArticle">
+	<div class="detail_cont">
+		<div class="cont_left">
+			
+<div class="card_tit">
+	<h4 class="tit_card">
+		<span class="inner_tit">뜻/문법</span>
+	</h4>
+</div>
+<div class="card_word" data-sup-count="1">
+				<div class="box_word box_pd" data-supid="eku000766002">
+											</div>			
+	</div> 
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	language.view.initSups({
+		wordid: 'ekw000086096',
+		suptype: 'KUMSUNG_EK',
+		displaySupid: 'eku000766002'
+	});
+});
+</script>			 				<div class="card_tit" id="families">
+	<h4 class="tit_card">
+		<span class="inner_tit">관련어</span>
+	</h4>
+</div>
+<div class="card_word card_relation">
+				
+					
+			<div class="box_word">
+				<div class="wrap_tit">
+					<strong class="tit_word"> 복합어・숙어</strong>
+					<span class="txt_num">470건</span>
+				</div>
+				<ul class="list_learning" data-page="1" data-type="INCLUDE_WORD" id="INCLUDE_WORD" name="INCLUDE_WORD">
+																							<li>
+							<a href="/word/view.do?wordid=ekw000086131&q=information+technology" class="txt_emph1">information technology</a>
+							<span class="mean_info"><daum:word id="kew000064131">정보</daum:word> <daum:word id="kew000011565">기술</daum:word>, <daum:word id="kew000064131">정보</daum:word> <daum:word id="kew000006897">공학</daum:word>, (<daum:word id="kew000048759">약어</daum:word>)<daum:word id="ekw000088997">IT</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000332558&q=personal+information" class="txt_emph1">personal information</a>
+							<span class="mean_info"><daum:word id="kew000002428">개인</daum:word> <daum:word id="kew000064131">정보</daum:word>, <daum:word id="kew000045418">신상</daum:word> <daum:word id="kew000064131">정보</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000257061&q=share+information" class="txt_emph1">share information</a>
+							<span class="mean_info"><daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000088435">공유하다</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000385562&q=new+information" class="txt_emph1">new information</a>
+							<span class="mean_info"><daum:word id="kkw000972112">새로운</daum:word> <daum:word id="kew000064131">정보</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000257148&q=useful+information" class="txt_emph1">useful information</a>
+							<span class="mean_info"><daum:word id="kew000093152">유용한</daum:word> <daum:word id="kew000064131">정보</daum:word></span>
+						</li>
+									</ul>
+								<a href="#none" class="btn_fold" data-page="1" data-total-count="470">
+					<span class="img_comm img_fold">더보기</span>
+				</a>
+							</div>
+				
+			<div class="box_word">
+				<div class="wrap_tit">
+					<strong class="tit_word">파생어</strong>
+					<span class="txt_num">8건</span>
+				</div>
+				<ul class="list_learning" data-page="1" data-type="WORD_FAMILY" id="WORD_FAMILY" name="WORD_FAMILY">
+																							<li>
+							<a href="/word/view.do?wordid=ekw000086087&q=inform" class="txt_emph1">inform</a>
+							<span class="mean_info"><daum:word id="kew000047793">알리다</daum:word>, <daum:word id="kew000095646">통보하다</daum:word>, <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000094120">제공하다</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000086138&q=informed" class="txt_emph1">informed</a>
+							<span class="mean_info"><daum:word id="kew000003723">견문</daum:word><daum:word id="kew000057612">이</daum:word> <daum:word id="kkw000974974">넓은</daum:word>, <daum:word id="kew000040752">세련</daum:word><daum:word id="kkw000070439">된</daum:word>, <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000050201">에</daum:word> <daum:word id="kkw000307941">근거한</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000086135&q=informative" class="txt_emph1">informative</a>
+							<span class="mean_info"><daum:word id="kew000093160">유익한</daum:word>, <daum:word id="kew000008105">교육적</daum:word><daum:word id="kew000058444">인</daum:word>, <daum:word id="kew000093152">유용한</daum:word> , <daum:word id="kkw000791419">정보성</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000107153&q=misinform" class="txt_emph1">misinform</a>
+							<span class="mean_info">…<daum:word id="kew000050201">에</daum:word> <daum:word id="kkw000247343">잘못된</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000063385">전하다</daum:word>, <daum:word id="kew000052682">오보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000063385">전하다</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000086141&q=informer" class="txt_emph1">informer</a>
+							<span class="mean_info"><daum:word id="kew000064131">정보</daum:word> <daum:word id="kew000064627">제공자</daum:word>, <daum:word id="kew000076845">통지</daum:word><daum:word id="kew000060028">자</daum:word>, <daum:word id="kew000028075">밀고자</daum:word></span>
+						</li>
+									</ul>
+								<a href="#none" class="btn_fold" data-page="1" data-total-count="8">
+					<span class="img_comm img_fold">더보기</span>
+				</a>
+							</div>
+				
+			<div class="box_word">
+				<div class="wrap_tit">
+					<strong class="tit_word">유의어</strong>
+					<span class="txt_num">22건</span>
+				</div>
+				<ul class="list_learning" data-page="1" data-type="SIMILAR_WORD" id="SIMILAR_WORD" name="SIMILAR_WORD">
+																							<li>
+							<a href="/word/view.do?wordid=ekw000165684&q=talk" class="txt_emph1">talk</a>
+							<span class="mean_info"><daum:word id="kew000085607">회담</daum:word>, <daum:word id="kew000023336">말하다</daum:word>, <daum:word id="kew000093351">이야기하다</daum:word>, <daum:word id="kew000089499">대화하다</daum:word>, <daum:word id="kew000085730">회의</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000113033&q=news" class="txt_emph1">news</a>
+							<span class="mean_info"><daum:word id="kew000015927">뉴스</daum:word>, <daum:word id="kew000041436">소식</daum:word>, <daum:word id="kew000032196">보도</daum:word>, <daum:word id="kew000045329">신문</daum:word>, <daum:word id="kew000064131">정보</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000139341&q=report" class="txt_emph1">report</a>
+							<span class="mean_info"><daum:word id="kew000032147">보고서</daum:word>, <daum:word id="kew000032143">보고</daum:word>, <daum:word id="kew000032196">보도</daum:word>, <daum:word id="kew000090546">발표하다</daum:word>, <daum:word id="kew000047793">알리다</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000187384&q=word" class="txt_emph1">word</a>
+							<span class="mean_info"><daum:word id="kew000023133">말</daum:word>, <daum:word id="kew000016787">단어</daum:word>, <daum:word id="kew000049777">언어</daum:word>, <daum:word id="kew000058071">이야기</daum:word></span>
+						</li>
+																							<li>
+							<a href="/word/view.do?wordid=ekw000160855&q=story" class="txt_emph1">story</a>
+							<span class="mean_info"><daum:word id="kew000058071">이야기</daum:word>, <daum:word id="kew000041387">소설</daum:word>, <daum:word id="kew000044065">스토리</daum:word>, <daum:word id="kew000011480">기사</daum:word>, <daum:word id="kew000020072">동화</daum:word></span>
+						</li>
+									</ul>
+								<a href="#none" class="btn_fold" data-page="1" data-total-count="22">
+					<span class="img_comm img_fold">더보기</span>
+				</a>
+							</div>
+			</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	language.view.initRelates({
+		wordid: 'ekw000086096'
+	});
+	
+});
+
+</script>										<div id="mobileBanner"></div>		</div>
+		<div class="cont_right">
+								
+	     
+<div class="card_tit" id="examples">
+	<h4 class="tit_card">
+		<span class="inner_tit">예문</span>
+	</h4>
+</div>
+<div class="card_word en_word">
+			<ul class="list_word">
+																															<li class="on">
+				<a href="#none" class="link_word">
+				<span class="txt_word">정보</span><span class="sub_txt">(지식)</span><span class="txt_num">7,153건</span></a>
+				<div class="cont_example">
+					<ul class="list_example" data-summaryid="ekys000308836">
+																											
+																																																																		<li>
+							<div class='box_example box_sound' data-id="eke011055461">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000096735">Libraries</daum:word> <daum:collocate for="are important"><daum:word id="ekw000008871">are</daum:word> <daum:word id="ekw000084625">important</daum:word></daum:collocate> <daum:word id="ekw000015104">because</daum:word> <daum:word id="ekw000168479">they</daum:word> <daum:collocate for="give access"><daum:word id="ekw000070684">give</daum:word> <daum:word id="ekw000000865">access</daum:word></daum:collocate> <daum:word id="ekw000170293">to</daum:word> <daum:collocate for="information and"><daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word> <daum:word id="ekw000006367">and</daum:word></daum:collocate> <daum:word id="ekw000093024">knowledge</daum:word>.</span>
+																														<a href="http://www.kidstimes.net/" target="_blank" class="link_example link_example2">Kidstimes</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://t1.daumcdn.net/language/example/KN4806AW" data-count="1" data-toggle-class="sound_on">
+										<span class="img_comm img_sound">소리듣기</span>
+									</a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000018897">도서관</daum:word><daum:word id="kew000056913">은</daum:word> <daum:word id="kew000064131"><span class="txt_emph1">정보</span></daum:word><daum:word id="kew000053241"><span class="txt_emph1">와</span></daum:word> <daum:word id="kew000068089"><span class="txt_emph1">지식</span></daum:word><daum:word id="kew000050201"><span class="txt_emph1">에</span></daum:word> <daum:word id="kew000018241">대한</daum:word> <daum:word id="kew000063784">접근</daum:word><daum:word id="kew000057049">을</daum:word> <daum:word id="kew000094120">제공하기</daum:word> <daum:word id="kew000021291">때문</daum:word><daum:word id="kew000050201">에</daum:word> <daum:word id="kew000094419">중요합니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																								<li>
+							<div class='box_example box_sound' data-id="eke010490637">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000023993">But</daum:word> <daum:word id="ekw000168308">there's</daum:word> <daum:word id="ekw000007035">another</daum:word> <daum:word id="ekw000156357">source</daum:word> <daum:word id="ekw000116629">of</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word>, <daum:word id="ekw000006373">and that</daum:word><daum:word id="ekw000143657">'s</daum:word> <daum:word id="ekw000053621">effectively</daum:word> <daum:word id="ekw000131742">prior</daum:word> <daum:word id="ekw000093024">knowledge</daum:word>.</span>
+																														<a href="http://www.ted.com/" target="_blank" class="link_example link_example2">TED</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=But+there%27s+another+source+of+information%2C+and+that%27s+effectively+prior+knowledge.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000080886">하지만</daum:word> <daum:word id="kew000085949">효과적</daum:word><daum:word id="kew000058444">인</daum:word> <daum:word id="kew000036642">사전</daum:word> <daum:word id="kew000068089"><span class="txt_emph1">지식</span></daum:word><daum:word id="kew000057711"><span class="txt_emph1">이라는</span></daum:word> <daum:word id="kew000064131"><span class="txt_emph1">정보</span></daum:word><daum:word id="kew000057346"><span class="txt_emph1">의</span></daum:word> <daum:word id="kkw000056856">다른</daum:word> <daum:word id="kew000010570">근원</daum:word><daum:word id="kew000018585">도</daum:word> <daum:word id="kew000094270">존재합니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																								<li>
+							<div class='box_example box_sound' data-id="eke010345344">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000006367">And</daum:word>, <daum:word id="ekw000086897">instead of</daum:word> <daum:word id="ekw000043191">dealing</daum:word> <daum:word id="ekw000091061">just</daum:word> <daum:word id="ekw000186842">with</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word>, <daum:word id="ekw000183936">we</daum:word> <daum:word id="ekw000025453">can</daum:word> <daum:word id="ekw000166679">tease out</daum:word> <daum:word id="ekw000093024">knowledge</daum:word>.</span>
+																														<a href="http://www.ted.com/" target="_blank" class="link_example link_example2">TED</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=And%2C+instead+of+dealing+just+with+information%2C+we+can+tease+out+knowledge.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000010210">그리고</daum:word>, <daum:word id="kkw000058483">단순히</daum:word> <daum:word id="kew000064131"><span class="txt_emph1">정보</span></daum:word><daum:word id="kew000022168"><span class="txt_emph1">를</span></daum:word> <daum:word id="kew000016265">다루는데에</daum:word> <daum:word id="kew000010302">그치는</daum:word> <daum:word id="kew000003447">것</daum:word><daum:word id="kew000057612">이</daum:word> <daum:word id="kew000046735">아니라</daum:word>, <daum:word id="kew000068089"><span class="txt_emph1">지식</span></daum:word><daum:word id="kew000057049"><span class="txt_emph1">을</span></daum:word> <daum:word id="kew000047814">알아내려고</daum:word> <daum:word id="kew000048313">애쓸</daum:word> <daum:word id="kew000042385">수</daum:word> <daum:word id="kew000059981">있습니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																																													</ul>
+																				<a href="#none" class="btn_fold" data-init-num="3" data-page="1" data-total-count="7153" data-ended="false" data-search="false">
+						<span class="img_comm img_fold">더보기</span>
+					</a>
+									</div>
+			</li>
+																																		<li class="on">
+				<a href="#none" class="link_word">
+				<span class="txt_word">자료</span><span class="sub_txt">(데이터)</span><span class="txt_num">381건</span></a>
+				<div class="cont_example">
+					<ul class="list_example" data-summaryid="ekys000308857">
+																											
+																																																																		<li>
+							<div class='box_example box_sound' data-id="eke010382637">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000115205">Now</daum:word>, <daum:word id="ekw000117557">one</daum:word> <daum:word id="ekw000137216">reason</daum:word> <daum:word id="ekw000185799">why</daum:word> <daum:word id="ekw000183936">we</daum:word> <daum:word id="ekw000378605">have so</daum:word> <daum:word id="ekw000109735">much</daum:word> <daum:word id="ekw000042625">data</daum:word> <daum:word id="ekw000187654">in the world</daum:word> <daum:word id="ekw000170374">today</daum:word> <daum:word id="ekw000088668">is</daum:word> <daum:word id="ekw000183936">we</daum:word> <daum:word id="ekw000008871">are</daum:word> <daum:word id="ekw000034097">collecting</daum:word> <daum:word id="eew000113389">things</daum:word> <daum:word id="ekw000168061">that</daum:word> <daum:word id="ekw000184860">we've</daum:word> <daum:word id="ekw000005417">always</daum:word> <daum:word id="ekw000034094">collected</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word> <daum:word id="ekw000117498">on</daum:word>, <daum:word id="ekw000023993">but</daum:word> <daum:collocate for="another reason"><daum:word id="ekw000007035">another</daum:word> <daum:word id="ekw000137216">reason</daum:word></daum:collocate> <daum:word id="ekw000185799">why</daum:word> <daum:word id="ekw000088668">is</daum:word> <daum:word id="ekw000184641">we're</daum:word> <daum:word id="ekw000165628">taking</daum:word> <daum:word id="eew000113389">things</daum:word> <daum:word id="ekw000168061">that</daum:word> <daum:word id="ekw000077075">have</daum:word> <daum:word id="ekw000005417">always</daum:word> <daum:word id="ekw000015361">been</daum:word> <daum:word id="ekw000086098"><span class="txt_emph1">information</span>al</daum:word> <daum:word id="ekw000023993">but</daum:word> <daum:word id="ekw000077075">have</daum:word> <daum:word id="ekw000112836">never</daum:word> <daum:word id="ekw000015361">been</daum:word> <daum:word id="ekw000139117">rendered</daum:word> <daum:word id="ekw000087815">into</daum:word> <daum:word id="ekw000000060">a</daum:word> <daum:word id="ekw000042651">data format</daum:word> <daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000183936">we</daum:word> <daum:word id="ekw000008871">are</daum:word> <daum:word id="ekw000134274">putting</daum:word> <daum:word id="ekw000088997">it</daum:word> <daum:word id="ekw000087815">into</daum:word> <daum:word id="ekw000042625">data</daum:word>.</span>
+																														<a href="http://www.ted.com/" target="_blank" class="link_example link_example2">TED</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=Now%2C+one+reason+why+we+have+so+much+data+in+the+world+today+is+we+are+collecting+things+that+we%27ve+always+collected+information+on%2C+but+another+reason+why+is+we%27re+taking+things+that+have+always+been+informational+but+have+never+been+rendered+into+a+data+format+and+we+are+putting+it+into+data.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000052499">오늘날</daum:word> <daum:word id="kew000040631">세계</daum:word><daum:word id="kew000050201">에</daum:word> <daum:word id="kew000018559"><span class="txt_emph1">데이터</span></daum:word><daum:word id="kew000000001"><span class="txt_emph1">가</span></daum:word> <daum:word id="kkw000050208">넘쳐나는</daum:word> <daum:word id="kew000058138">이유</daum:word> <daum:word id="kew000066869">중</daum:word> <daum:word id="kew000080661">하나</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000064625">제공</daum:word> <daum:word id="kew000029093">받은</daum:word> <span class="txt_emph1">자료들</span><daum:word id="kew000057049"><span class="txt_emph1">을</span></daum:word> <daum:word id="kew000081944">항상</daum:word>, <daum:word id="kew000049808">언제</daum:word><daum:word id="kew000016165">다</daum:word> <daum:word id="kew000024811">모</daum:word><daum:word id="kkw000200777">으</daum:word><daum:word id="kew000011099">기</daum:word> <daum:word id="kew000021291">때문</daum:word><daum:word id="kew000057635">이고요</daum:word>, <daum:word id="kew000021417">또</daum:word> <daum:word id="kkw000056856">다른</daum:word> <daum:word id="kew000058138">이유</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022038">로써</daum:word> <daum:word id="kew000000840">가치</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000059981">있지만</daum:word> <daum:word id="kew000060309"><span class="txt_emph1">자료</span></daum:word><daum:word id="kew000057346"><span class="txt_emph1">의</span></daum:word> <daum:word id="kew000083879">형태</daum:word><daum:word id="kew000021977">로</daum:word> <daum:word id="kew000000048">가공</daum:word><daum:word id="kkw000070405">되지</daum:word> <daum:word id="kew000025544">못했던</daum:word> <daum:word id="kew000003447">것</daum:word><daum:word id="kew000057049">을</daum:word> <daum:word id="kew000058209">이제</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000060309"><span class="txt_emph1">자료</span></daum:word><daum:word id="kew000057346"><span class="txt_emph1">의</span></daum:word> <daum:word id="kew000083879">형태</daum:word><daum:word id="kew000021977">로</daum:word> <daum:word id="kew000087609">가공할</daum:word> <daum:word id="kew000042385">수</daum:word> <daum:word id="kew000059981">있게</daum:word> <daum:word id="kew000020107">되었기</daum:word> <daum:word id="kew000021291">때문</daum:word><daum:word id="kew000057711">입니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																								<li>
+							<div class='box_example box_sound' data-id="eke010452366">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000183936">We</daum:word> <daum:word id="ekw000231845">get <span class="txt_emph1">information</span></daum:word> <daum:word id="ekw000338138">in the mail</daum:word>, <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000138592">regular</daum:word> <daum:word id="ekw000129660">postal</daum:word> <daum:word id="ekw000101235">mail</daum:word>, encrypted <daum:word id="ekw000118302">or</daum:word> <daum:word id="ekw000114980">not</daum:word>, <daum:word id="ekw000180696">vet</daum:word> <daum:word id="ekw000088997">it</daum:word> <daum:word id="ekw000097212">like</daum:word> <daum:word id="ekw000000060">a</daum:word> <daum:word id="ekw000138592">regular</daum:word> <daum:word id="eew000135878">news organization</daum:word>, <daum:word id="ekw000065579">format</daum:word> <daum:word id="ekw000088997">it</daum:word>. <daum:word id="ekw000185139">Which</daum:word> <daum:word id="ekw000088668">is</daum:word> <daum:word id="ekw000155879">sometimes</daum:word> <daum:word id="ekw000155863">something</daum:word> <daum:word id="ekw000168079">that's</daum:word> <daum:word id="ekw000135423">quite</daum:word> <daum:word id="ekw000254010">hard to</daum:word> <daum:word id="ekw000048918">do</daum:word>, <daum:word id="ekw000185080">when</daum:word> <daum:word id="ekw000189075">you're</daum:word> <daum:collocate for="talking about"><daum:word id="ekw000165718">talking</daum:word> <daum:word id="ekw000000433">about</daum:word></daum:collocate> <daum:word id="ekw000070314">giant</daum:word> <daum:word id="ekw000042629">databases</daum:word> <daum:word id="ekw000116629">of</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word>. <daum:word id="ekw000138844">Release</daum:word> <daum:word id="ekw000088997">it</daum:word> <daum:word id="ekw000170293">to</daum:word> <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000133393">public</daum:word> <daum:word id="ekw000006375">and then</daum:word> <daum:word id="ekw000044024">defend</daum:word> <daum:word id="ekw000119267">ourselves</daum:word> <daum:word id="ekw000003130">against</daum:word> <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000085855">inevitable</daum:word> <daum:word id="ekw000095830">legal</daum:word> <daum:collocate for="and political"><daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000128637">political</daum:word></daum:collocate> <daum:word id="ekw000010747">attacks</daum:word>.</span>
+																														<a href="http://www.ted.com/" target="_blank" class="link_example link_example2">TED</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=We+get+information+in+the+mail%2C+the+regular+postal+mail%2C+encrypted+or+not%2C+vet+it+like+a+regular+news+organization%2C+format+it.+Which+is+sometimes+something+that%27s+quite+hard+to+do%2C+when+you%27re+talking+about+giant+databases+of+information.+Release+it+to+the+public+and+then+defend+ourselves+against+the+inevitable+legal+and+political+attacks.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000062307">저희</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000054629">우편</daum:word><daum:word id="kew000056869">으로</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000049835">얻는데</daum:word>, <daum:word id="kew000059181">일반</daum:word> <daum:word id="kew000054629">우편</daum:word><daum:word id="kew000057049">을</daum:word> <daum:word id="kew000076892">통해서</daum:word><daum:word id="kew000053880">요</daum:word>, <daum:word id="kkw000317789">암호화하기도</daum:word> <daum:word id="kew000080618">하고</daum:word> <daum:word id="kew000010171">그렇지</daum:word> <daum:word id="kew000047733">않은</daum:word> <daum:word id="kew000004400">경우</daum:word><daum:word id="kew000018585">도</daum:word> <daum:word id="kew000059981">있구요</daum:word>, <daum:word id="kew000095277">취득한</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000015995">는</daum:word> <daum:word id="kew000050457">여느</daum:word> <daum:word id="kew000097261">언론사</daum:word><daum:word id="kew000070506">처럼</daum:word> <daum:word id="kew000008592">구성</daum:word><daum:word id="kew000057049">을</daum:word> <daum:word id="kkw000283253">하게</daum:word> <daum:word id="kew000020107">됩니다</daum:word>. <daum:word id="kew000090568">방대한</daum:word> <daum:word id="kew000060309"><span class="txt_emph1">자료</span></daum:word><daum:word id="kew000022168"><span class="txt_emph1">를</span></daum:word> <daum:word id="kkw000059943">담은</daum:word> <daum:word id="kew000018559"><span class="txt_emph1">데이터</span></daum:word><daum:word id="kew000031508"><span class="txt_emph1">베이스</span></daum:word><daum:word id="kew000057346"><span class="txt_emph1">의</span></daum:word> <daum:word id="kew000004400">경우</daum:word><daum:word id="kew000050234">에는</daum:word> <daum:word id="kew000093635">작업하기</daum:word><daum:word id="kew000000001">가</daum:word> <daum:word id="kew000037906">상당히</daum:word> <daum:word id="kew000087159">힘들죠</daum:word>. <daum:word id="kew000060309"><span class="txt_emph1">자료</span></daum:word><daum:word id="kew000022168"><span class="txt_emph1">를</span></daum:word> <daum:word id="kew000088383">공개하고</daum:word><daum:word id="kew000013004">나서는</daum:word> <daum:word id="kew000091108">불가피한</daum:word> <daum:word id="kew000031342">법적</daum:word>, <daum:word id="kew000064515">정치적</daum:word><daum:word id="kew000058444">인</daum:word> <daum:word id="kew000006471">공세</daum:word><daum:word id="kew000050201">에</daum:word> <daum:word id="kkw000084193">맞서 </daum:word><daum:word id="kew000043869">스스로</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000068300">지켜야</daum:word><daum:word id="kew000080681">합니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																																																								</ul>
+																				<a href="#none" class="btn_fold" data-init-num="2" data-page="1" data-total-count="381" data-ended="false" data-search="false">
+						<span class="img_comm img_fold">더보기</span>
+					</a>
+									</div>
+			</li>
+																																		<li class="on">
+				<a href="#none" class="link_word">
+				<span class="txt_word">뉴스</span><span class="sub_txt">(소식)</span><span class="txt_num">70건</span></a>
+				<div class="cont_example">
+					<ul class="list_example" data-summaryid="ekys000308851">
+																											
+																																																																		<li>
+							<div class='box_example box_sound' data-id="eke010386634">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000168092">The</daum:word> <daum:word id="ekw000093541">L</daum:word>.<daum:word id="ekw000000060">A</daum:word>. <daum:word id="ekw000169885">Times</daum:word> <daum:word id="ekw000001733">actually</daum:word> <daum:word id="ekw000174375">turned</daum:word> <daum:word id="ekw000170293">to</daum:word> <daum:word id="ekw000174739">Twitter</daum:word> <daum:word id="ekw000170293">to</daum:word> <daum:word id="ekw000048182">dispense</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word> <daum:word id="ekw000009695">as well</daum:word>, <daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000134200">put</daum:word> <daum:word id="ekw000000060">a</daum:word> <daum:word id="ekw000174739">Twitter</daum:word> <daum:word id="ekw000060976">feed on</daum:word> <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000067136">front page</daum:word>, <daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000093541">L</daum:word>.<daum:word id="ekw000000060">A</daum:word>. <daum:word id="ekw000062574">Fire Department</daum:word> <daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000137795">Red Cross</daum:word> <daum:word id="ekw000179100">used</daum:word> <daum:word id="ekw000088997">it</daum:word> <daum:word id="ekw000170293">to</daum:word> <daum:word id="ekw000048182">dispense</daum:word> <daum:collocate for="news and"><daum:word id="ekw000113033">news</daum:word> <daum:word id="ekw000006367">and</daum:word></daum:collocate> <daum:word id="ekw000178627">updates</daum:word> <daum:word id="ekw000009695">as well</daum:word>.</span>
+																														<a href="http://www.ted.com/" target="_blank" class="link_example link_example2">TED</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=The+L.A.+Times+actually+turned+to+Twitter+to+dispense+information+as+well%2C+and+put+a+Twitter+feed+on+the+front+page%2C+and+the+L.A.+Fire+Department+and+Red+Cross+used+it+to+dispense+news+and+updates+as+well.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000045904">실제로</daum:word> <daum:word id="ekw000093541">L</daum:word>.<daum:word id="ekw000000060">A</daum:word>. Times도 <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kkw000044356">나누어 </daum:word><daum:word id="kew000066190">주기</daum:word> <daum:word id="kew000055751">위해서</daum:word> <daum:word id="ekw000174739">Twitter</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000091335">사용했을</daum:word> <daum:word id="kew000035931">뿐</daum:word><daum:word id="kew000022846">만</daum:word> <daum:word id="kew000046735">아니라</daum:word> <daum:word id="kew000071128">첫</daum:word> <daum:word id="kew000078593">페이지</daum:word><daum:word id="kew000050201">에</daum:word> <daum:word id="ekw000174739">Twitter</daum:word> <daum:word id="ekw000060969">feed</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000091423">삽입하였고</daum:word>, <daum:word id="ekw000093541">L</daum:word>.<daum:word id="ekw000000060">A</daum:word>. 소방국<daum:word id="kew000006954">과</daum:word> <daum:word id="kew000062416">적십자</daum:word><daum:word id="kew000018585">도</daum:word> <daum:word id="kew000015927"><span class="txt_emph1">뉴스</span></daum:word><daum:word id="kew000053241"><span class="txt_emph1">와</span></daum:word> <daum:word id="kew000038415"><span class="txt_emph1">새소식</span></daum:word><daum:word id="kew000057049"><span class="txt_emph1">을</span></daum:word> <daum:word id="kew000047793">알리기</daum:word> <daum:word id="kkw000213695">위해 </daum:word><daum:word id="ekw000174739">Twitter</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000091335">사용했습니다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																								<li>
+							<div class='box_example box_sound' data-id="eke001017395">
+								<span class="txt_example">
+									<span class="txt_ex"><daum:word id="ekw000084781">In</daum:word> <daum:word id="ekw000161766">studying</daum:word> <daum:word id="ekw000152998">six</daum:word> <daum:word id="ekw000101399">major</daum:word> <daum:word id="ekw000113033">news</daum:word> <daum:word id="eew000131267">threads</daum:word>, <daum:word id="ekw000085037">including</daum:word> <daum:word id="eew000035837">online</daum:word> blogs <daum:word id="ekw000006367">and</daum:word> <daum:word id="ekw000168872">those</daum:word> <daum:word id="ekw000168061">that</daum:word> <daum:word id="ekw000179088">use</daum:word> <daum:word id="ekw000155129">social</daum:word> <daum:word id="ekw000103995">media</daum:word> <daum:word id="ekw000152930">sites</daum:word>, <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000139537">researchers</daum:word> <daum:word id="ekw000035723">concluded</daum:word> <daum:word id="ekw000168061">that</daum:word> ඛ <daum:word id="ekw000123999">percent</daum:word> <daum:word id="ekw000116629">of</daum:word> <daum:word id="ekw000168092">the</daum:word> <daum:word id="ekw000160855">stories</daum:word> <daum:word id="ekw000184642">were</daum:word> <daum:word id="ekw000057163">essentially</daum:word> <daum:word id="ekw000139292">repetitive</daum:word>, <daum:word id="eew000008459">conveying</daum:word> <daum:word id="ekw000113853">no</daum:word> <daum:word id="ekw000112857">new</daum:word> <daum:word id="ekw000086096"><span class="txt_emph1">information</span></daum:word>.</span>
+																														<a href="http://www.netimes.co.kr" target="_blank" class="link_example link_example2">NE TIMES</a>
+																																												<a href="#none" class="link_sound " data-audio data-url="http://tts-dic.daum.net/read?lang=en&txt=In+studying+six+major+news+threads%2C+including+online+blogs+and+those+that+use+social+media+sites%2C+the+researchers+concluded+that+%E0%B6%9B+percent+of+the+stories+were+essentially+repetitive%2C+conveying+no+new+information.&format=mpeg" data-count="1" data-toggle-class="sound_on"><span class="img_comm img_sound">소리듣기</span></a>
+																 								</span>
+								<span class="mean_example"><span class="txt_ex"><daum:word id="kew000053004">온라인</daum:word> 블로그<daum:word id="kew000053241">와</daum:word> <daum:word id="kew000036890">사회</daum:word><daum:word id="kew000023890">매체</daum:word> 사이트<daum:word id="kew000022168">를</daum:word> <daum:word id="kew000036506">사용하는</daum:word> <daum:word id="kew000020850">등</daum:word> 6<daum:word id="kew000000769">가지</daum:word> <daum:word id="kew000066455">주요</daum:word> <daum:word id="kew000015927"><span class="txt_emph1">뉴스</span></daum:word> <daum:word id="kew000023890">매체</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000050903">연구하면서</daum:word> 연구원들<daum:word id="kew000056913">은</daum:word> ඛ <daum:word id="kew000078476">퍼센트</daum:word><daum:word id="kew000057346">의</daum:word> <daum:word id="kew000041436"><span class="txt_emph1">소식</span></daum:word><daum:word id="kew000057612"><span class="txt_emph1">이</span></daum:word> 근본적<daum:word id="kew000056869">으로</daum:word> <daum:word id="kew000028845">반복되며</daum:word> <daum:word id="kew000038460">새로운</daum:word> <daum:word id="kew000064131">정보</daum:word><daum:word id="kew000022168">를</daum:word> <daum:word id="kew000017113">담고</daum:word> <daum:word id="kew000059981">있지</daum:word> <daum:word id="kew000047733">않다</daum:word><daum:word id="kew000021638">라고</daum:word> <daum:word id="kew000003825">결론</daum:word><daum:word id="kew000057049">을</daum:word> <daum:word id="kew000067800">지었다</daum:word>.</span></span>
+							</div>
+						</li>
+																																																																																																								</ul>
+																				<a href="#none" class="btn_fold" data-init-num="2" data-page="1" data-total-count="70" data-ended="false" data-search="false">
+						<span class="img_comm img_fold">더보기</span>
+					</a>
+									</div>
+			</li>
+																															<li>
+				<a href="#none" class="link_word">
+				<span class="txt_word">안내</span><span class="sub_txt">(접수처)</span><span class="txt_num">55건</span></a>
+				<div class="cont_example">
+					<ul class="list_example" data-summaryid="ekys000308838">
+																											
+																																																																																																																								</ul>
+																				<a href="#none" class="btn_fold" data-init-num="0" data-page="1" data-total-count="55" data-ended="false" data-search="false">
+						<span class="img_comm img_fold">더보기</span>
+					</a>
+									</div>
+			</li>
+																															<li>
+				<a href="#none" class="link_word">
+				<span class="txt_word">보도</span><span class="sub_txt">(통보, 통지)</span><span class="txt_num">39건</span></a>
+				<div class="cont_example">
+					<ul class="list_example" data-summaryid="ekys000308840">
+																											
+																																																																																																																								</ul>
+																				<a href="#none" class="btn_fold" data-init-num="0" data-page="1" data-total-count="39" data-ended="false" data-search="false">
+						<span class="img_comm img_fold">더보기</span>
+					</a>
+									</div>
+			</li>
+																	<li >
+			<a href="#none" class="link_word"><span class="txt_word">기타예문</span><span class="txt_num">51,084건</span></a>
+			<div class="cont_example">
+				<ul class="list_example" data-summaryid="etc">
+																																			</ul>
+																<a href="#none" class="btn_fold" data-init-num="0" data-page="1" data-total-count="51084" data-ended="false" data-search="true">
+					<span class="img_comm img_fold">더보기</span>
+				</a>
+							</div>
+		</li>
+			</ul>
+		</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	language.view.initExamples({
+		wordid: 'ekw000086096'
+	});
+});
+
+</script>						<div class="card_word">
+			<a href="https://search.daum.net/search?w=bookpage&bookId=362315&q=%EA%B7%B8%EB%9E%9C%EB%93%9C+%EC%98%81%ED%95%9C%EC%82%AC%EC%A0%84" target="_blank" class="link_source">
+        	<span class="info_source">
+                	<strong class="tit_source">그랜드 영한사전<span class="txt_pubisher">금성출판사</span></strong>
+                	<span class="txt_source">26만 단어에 이르는 방대한 어휘를 담고 있는 사전으로, 4,800여 개의 첨단 신어를 채록하여 수용하였다. 전문어들과 세계 인명ㆍ지명을 총망라하였으며, 살아있는 구어ㆍ속어ㆍ용례, 풀이 속에 딱 들어맞는 우리말, 영어의 눈이 확 트이는 어법 정보를 제시하고 있다.</span>
+                </span>
+                <span class="thumb_source"><img src="//t1.daumcdn.net/language/banner/KUMSUNG_EK.jpg" width="58" height="85" class="img_temp" alt=""></span>
+                </a>       
+		<a href="#none" id="openFeedbackLayer" class="link_feedback">
+		오타 및 잘못된 내용 제보하기<span class="img_comm ico_arrow"></span>
+	</a>
+</div>
+
+					<a href="https://riks.korea.ac.kr/square/notice/detail/1055" target="_blank" class="link_tip" style="">
+	<img src="//t1.daumcdn.net/language/banner/LY3QTZB8" width="430" class="img_temp" alt="">
+</a>
+													</div>
+	</div> <!-- detail_cont -->
+		<div id="wordbookLayer" class="layer_wordbook" style="display:none;top:200px">
+	<div class="inner_wordbook_layer inner_wordbook_layer1">
+		<div class="layer_head">
+			<strong class="tit_wordbook">내 단어장에 저장</strong>
+		</div>
+		<div class="layer_body">
+			<div class="cont_wordbook">
+				<ul class="list_wordbook">
+				</ul>
+			</div>
+			<div class="box_btn">
+				<a href="#none" class="link_addbook">단어장 추가</a>
+				<a href="#none" type="button" class="btn_close"><span class="img_comm">닫기</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="addWordbookLayer" class="layer_wordbook" style="display:none;top:600px;">
+	<div class="inner_wordbook_layer inner_wordbook_layer2">
+		<div class="layer_head">
+			<strong class="tit_wordbook">새 단어장 추가</strong>
+		</div>
+		<div class="layer_body">
+			<form>
+				<fieldset>
+					<legend class="screen_out">단어장 이름</legend>
+					<div class="cont_word">
+						<span class="myword_make">
+							<label for="wordName" class="word_name">단어장 이름 <span class="txt_input">입력</span></label>
+							<input type="text" id="wordName" name="title" class="inp_wordtxt" maxlength="20" autocomplete="off">
+							<button type="button" class="btn_del"><span class="img_comm ico_delete">지움</span></button>
+						</span>
+						<p class="word_desc">확인을 누르시면 새로 만든 단어장으로 자동 저장됩니다.</p>
+					</div>
+					<div class="box_btn">
+						<a href="#none" class="btn_layer btn_conform">확인</a>
+						<a href="#none" class="btn_close"><span class="img_comm">닫기</span></a>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+</div>
+
+<div id="noWordbookLayer" class="layer_wordbook" style="display:none;top:600px;">
+	<div class="inner_wordbook_layer inner_wordbook_layer3">
+		<div class="layer_head">
+			<strong class="tit_wordbook">내 단어장에 저장</strong>
+		</div>
+		<div class="layer_body">
+			<div class="cont_word">
+				<p class="word_make">저장할 단어장이 없습니다.<br>단어장을 만들어주세요.</p>
+			</div>
+			<div class="box_btn">
+				<a href="#none" class="btn_layer btn_conform">만들기</a>
+				<a href="#none" class="btn_close"><span class="img_comm">닫기</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="wordLayer" class="layer_word" style="display:none;top:270px;">
+	<div class="inner_word_layer">
+		<div class="wrap_word">
+			<strong class="tit_word">
+				<a href="#none" id="wordLayerCleanword" class="link_word"></a>
+				<span id="wordLayerPron" class="desc_listen" style="display:none"></span>
+				<span id="hanjaInfo" class="txt_info" style="display:none"></span>
+			</strong>
+			<a href="#none" id="wordLayerSound" data-audio data-count="2" data-url="" class="link_sound" data-toggle-class="sound_on">
+				<span class="img_comm img_sound">소리듣기</span>
+			</a>
+		</div>
+		<ul class="list_mean" id="wordLayerSummary"></ul>
+	</div>
+	<div id="icoArrow" class="img_comm ico_arrow" style=""></div>
+	<button type="button" class="btn_close"><span class="img_comm">닫기</span></button>
+</div>
+</div> <!-- mArticle -->
+
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		language.view.init({
+			deviceType: 'PC',
+			dic: 'eng'
+		});
+	
+		language.wordbook.init({
+			environment: 'production',
+			deviceType: 'PC',
+	    	userid: ''
+		});
+		
+		language.feedback.init({
+			environment: 'production',
+			deviceType: 'PC',
+			userid: ''
+		});
+		
+		language.audioPlayer.init({
+			deviceType: 'PC',
+			browserName: 'none'
+		});
+		
+		language.wordLayer.init({
+			deviceType: 'PC'
+		});
+		
+		language.wordbook.wordLogToWordbook('en', 'ekw000086096');
+		
+	});
+</script>
+			<a href="#top" class="img_comm link_top" style="display:none; left: 46%; bottom: 50px;">맨위로</a>
+		</div> <!-- //kakaoContent -->
+
+		
+		<hr class="hide">
+		<div id="kakaoFoot" role="contentinfo" class="kakao_foot ">
+					
+<div class="inner_foot">
+	<a href="https://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%8B%A4%EC%9D%8C%EC%82%AC%EC%A0%84%EC%95%B1&tltm=1" class="link_appdown" target="_blank">
+		<img src="//t1.daumcdn.net/language/img/dic-2020/ico_app_pc.png" width="26" height="26" class="img_app" alt="Daum App">
+		<span class="txt_app">Daum 사전앱을 다운로드하세요!</span>
+	</a>
+	<h2 class="screen_out">서비스 메뉴</h2>
+	<ul class="list_foot font_dt">
+		<li><a href="http://www.daum.net/doc/info.html" target="_blank" class="link_foot">서비스 약관/정책</a><span class="txt_bar">|</span></li>
+		<li><a href="http://cs.daum.net/redbell/top.html" target="_blank" class="link_foot">권리침해신고</a><span class="txt_bar">|</span></li>
+		<li><a href="http://cs.daum.net/faq/28.html" target="_blank" class="link_foot">사전 고객센터</a><span class="txt_bar">|</span></li>
+		<li><a href="https://cs.daum.net/question/28.html" target="_blank" class="link_foot">사전 문의하기</a><span class="txt_bar">|</span></li>
+		<li><a href="https://dicmanager.tistory.com/" target="_blank" class="link_foot">공지사항</a></li>
+	</ul>
+	<div class="foot_info font_dt">
+		    <address class="copyright">Copyright
+			<a href="http://kakaocorp.com/" target="_blank" class="link_copy" title="Kakao Corp. 바로가기">
+			<span class="mark_copy"> ⓒ</span>Kakao Corp.</a>  All rights reserved.
+		</address>
+		<p>위 내용에 대한 저작권 및 법적 책임은 자료 제공사 또는 글쓴이에 있으며 Kakao의 입장과 다를 수 있습니다.</p>
+			</div>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76663969-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="//t1.daumcdn.net/language/cssjs/9be7e9f/js/lib/jquery.scrolldepth.min.js"></script>
+<script>
+	jQuery(function() {
+	  jQuery.scrollDepth();
+	});
+</script>				</div> <!-- //kakaoFoot -->
+				
+			</div> <!-- //kakaoWrap -->
+			<div id="wrapMinidaum"></div>
+<script type="text/javascript">
+var minidaum_options = {
+    // logout 시 return url 변경 여부 flag : default: false - 다음탑으로 이동
+    enableLogoutRetun: false, // false - 다음탑으로 이동, true - 현재페이지 혹은 returnUrl 값으로 이동
+    returnUrl: '', // default - 현재페이지(window.location.href)
+
+    // 실시간 이슈 사용 여부, default: false
+    disableHotissue: true, // false일 경우 사용, true일 경우 미사용
+ 
+    // 로고 사용 여부, default: false
+    disableLogo: true, // false일 경우 사용, true일 경우 미사용
+ 
+    // 티아라 사용 여부, default: false
+    disableTracker: true, // false일 경우 사용, true일 경우 미사용
+ 
+    // 플래시에 의한 레이어 가림 현상 방지 사용 여부, default: false
+    enableShield: false // false일 경우 미사용, true일 경우 사용
+}
+</script>
+<script type="text/javascript" src="//go.daum.net/minidaum_pc.daum" charset="utf-8" async defer></script>
+	<div id="feedbackLayer" class="layer_wordbook" style="display:none;top:156px;">
+	<div class="inner_wordbook_layer inner_feedback_layer">
+		<div class="layer_head">
+			<strong class="tit_wordbook">사전 의견 보내기</strong>
+		</div>
+		<div class="layer_body">
+			<div class="wrap_item">
+				<div class="choice_item">
+		  			 <input type="radio" name="chk_report" id="chkReport1" value="1" class="inp_choice" checked="checked">
+		  			 <label class="lab_choice" for="chkReport1"> <!--lab_choice_on-->
+		      		 	<span class="img_comm ico_chk"></span>새로운 단어 제보
+		  			 </label>
+				 </div>
+				 <div class="choice_item">
+		  			 <input type="radio" name="chk_report" id="chkReport2" value="2" class="inp_choice">
+		  			 <label class="lab_choice" for="chkReport2">
+		      		 	<span class="img_comm ico_chk"></span>오류신고
+		  			 </label>
+				 </div>
+				 <div class="choice_item">
+		  			 <input type="radio" name="chk_report" id="chkReport3" value="0" class="inp_choice">
+		  			 <label class="lab_choice" for="chkReport3">
+		      		 	<span class="img_comm ico_chk"></span>기타의견
+		  			 </label>
+				 </div>
+			</div>
+			<div class="wrap_write">
+				<label for="reportCause" class="screen_out">내용 쓰기</label>
+				<textarea id="reportCause" class="tf_write"></textarea>
+			</div>
+			<p class="desc_report m_none">사전에 없는 단어나 내용 오류, 오타를 신고해 주세요.</p>
+            <p class="desc_report">등록해 주신 내용은 운영자의 검토를 거쳐, 서비스에 반영됩니다.</p>
+			<div class="box_btn">
+				<a href="#none" id="feedbackConfirm" class="btn_layer btn_conform">확인</a>
+				<a href="#none" id="feedbackCancel" class="btn_layer btn_cancel">취소</a>
+			</div>
+		</div>
+	</div>
+</div></body>
+</html>

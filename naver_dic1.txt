@@ -1,0 +1,358 @@
+<html lang="en"><head><style>body{margin: -10000px} #u_skip a{display:block;position:relative;margin-top:-10000px}</style><style>input[type="search"]::-webkit-search-cancel-button {display: none;}</style><script>window.appChunks={ "main":"https://ssl.pstatic.net/dicimg/alldict3/js/main.e93d880e77d25c616388.js","app-arkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-arkodict-ko.e93d880e77d25c616388.js","app-arkodict-ar":"https://ssl.pstatic.net/dicimg/alldict3/js/app-arkodict-ar.e93d880e77d25c616388.js","app-m.arkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.arkodict-ko.e93d880e77d25c616388.js","app-cskodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-cskodict-ko.e93d880e77d25c616388.js","app-cskodict-cs":"https://ssl.pstatic.net/dicimg/alldict3/js/app-cskodict-cs.e93d880e77d25c616388.js","app-m.cskodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.cskodict-ko.e93d880e77d25c616388.js","app-m.cskodict-cs":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.cskodict-cs.e93d880e77d25c616388.js","app-elkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-elkodict-ko.e93d880e77d25c616388.js","app-elkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-elkodict-en.e93d880e77d25c616388.js","app-m.elkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.elkodict-ko.e93d880e77d25c616388.js","app-m.elkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.elkodict-en.e93d880e77d25c616388.js","app-fakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-fakodict-ko.e93d880e77d25c616388.js","app-fakodict-fa":"https://ssl.pstatic.net/dicimg/alldict3/js/app-fakodict-fa.e93d880e77d25c616388.js","app-m.fakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.fakodict-ko.e93d880e77d25c616388.js","app-m.fakodict-fa":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.fakodict-fa.e93d880e77d25c616388.js","app-fikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-fikodict-ko.e93d880e77d25c616388.js","app-fikodict-fi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-fikodict-fi.e93d880e77d25c616388.js","app-m.fikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.fikodict-ko.e93d880e77d25c616388.js","app-m.fikodict-fi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.fikodict-fi.e93d880e77d25c616388.js","app-grckodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-grckodict-ko.e93d880e77d25c616388.js","app-grckodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-grckodict-en.e93d880e77d25c616388.js","app-m.grckodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.grckodict-ko.e93d880e77d25c616388.js","app-m.grckodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.grckodict-en.e93d880e77d25c616388.js","app-hbokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hbokodict-ko.e93d880e77d25c616388.js","app-hbokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hbokodict-en.e93d880e77d25c616388.js","app-m.hbokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hbokodict-ko.e93d880e77d25c616388.js","app-m.hbokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hbokodict-en.e93d880e77d25c616388.js","app-hikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hikodict-ko.e93d880e77d25c616388.js","app-hikodict-hi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hikodict-hi.e93d880e77d25c616388.js","app-m.hikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hikodict-ko.e93d880e77d25c616388.js","app-m.hikodict-hi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hikodict-hi.e93d880e77d25c616388.js","app-hukodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hukodict-ko.e93d880e77d25c616388.js","app-hukodict-hu":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hukodict-hu.e93d880e77d25c616388.js","app-m.hukodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hukodict-ko.e93d880e77d25c616388.js","app-m.hukodict-hu":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hukodict-hu.e93d880e77d25c616388.js","app-itkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-itkodict-ko.e93d880e77d25c616388.js","app-itkodict-it":"https://ssl.pstatic.net/dicimg/alldict3/js/app-itkodict-it.e93d880e77d25c616388.js","app-m.itkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.itkodict-ko.e93d880e77d25c616388.js","app-m.itkodict-it":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.itkodict-it.e93d880e77d25c616388.js","app-idkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-idkodict-ko.e93d880e77d25c616388.js","app-idkodict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-idkodict-id.e93d880e77d25c616388.js","app-m.idkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.idkodict-ko.e93d880e77d25c616388.js","app-lakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-lakodict-ko.e93d880e77d25c616388.js","app-m.lakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.lakodict-ko.e93d880e77d25c616388.js","app-mykodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-mykodict-ko.e93d880e77d25c616388.js","app-mykodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-mykodict-en.e93d880e77d25c616388.js","app-m.mykodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.mykodict-ko.e93d880e77d25c616388.js","app-m.mykodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.mykodict-en.e93d880e77d25c616388.js","app-nekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nekodict-ko.e93d880e77d25c616388.js","app-nekodict-ne":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nekodict-ne.e93d880e77d25c616388.js","app-m.nekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nekodict-ko.e93d880e77d25c616388.js","app-m.nekodict-ne":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nekodict-ne.e93d880e77d25c616388.js","app-nlkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nlkodict-ko.e93d880e77d25c616388.js","app-nlkodict-nl":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nlkodict-nl.e93d880e77d25c616388.js","app-m.nlkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nlkodict-ko.e93d880e77d25c616388.js","app-m.nlkodict-nl":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nlkodict-nl.e93d880e77d25c616388.js","app-plkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-plkodict-ko.e93d880e77d25c616388.js","app-plkodict-pl":"https://ssl.pstatic.net/dicimg/alldict3/js/app-plkodict-pl.e93d880e77d25c616388.js","app-m.plkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.plkodict-ko.e93d880e77d25c616388.js","app-m.plkodict-pl":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.plkodict-pl.e93d880e77d25c616388.js","app-ptkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-ptkodict-ko.e93d880e77d25c616388.js","app-ptkodict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-ptkodict-pt.e93d880e77d25c616388.js","app-m.ptkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.ptkodict-ko.e93d880e77d25c616388.js","app-m.ptkodict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.ptkodict-pt.e93d880e77d25c616388.js","app-rokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-rokodict-ko.e93d880e77d25c616388.js","app-rokodict-ro":"https://ssl.pstatic.net/dicimg/alldict3/js/app-rokodict-ro.e93d880e77d25c616388.js","app-m.rokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.rokodict-ko.e93d880e77d25c616388.js","app-m.rokodict-ro":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.rokodict-ro.e93d880e77d25c616388.js","app-rukodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-rukodict-ko.e93d880e77d25c616388.js","app-rukodict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-rukodict-ru.e93d880e77d25c616388.js","app-m.rukodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.rukodict-ko.e93d880e77d25c616388.js","app-svkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-svkodict-ko.e93d880e77d25c616388.js","app-svkodict-sv":"https://ssl.pstatic.net/dicimg/alldict3/js/app-svkodict-sv.e93d880e77d25c616388.js","app-m.svkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.svkodict-ko.e93d880e77d25c616388.js","app-m.svkodict-sv":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.svkodict-sv.e93d880e77d25c616388.js","app-swkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-swkodict-ko.e93d880e77d25c616388.js","app-swkodict-sw":"https://ssl.pstatic.net/dicimg/alldict3/js/app-swkodict-sw.e93d880e77d25c616388.js","app-m.swkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.swkodict-ko.e93d880e77d25c616388.js","app-m.swkodict-sw":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.swkodict-sw.e93d880e77d25c616388.js","app-tetkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-tetkodict-ko.e93d880e77d25c616388.js","app-tetkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-tetkodict-en.e93d880e77d25c616388.js","app-m.tetkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.tetkodict-ko.e93d880e77d25c616388.js","app-m.tetkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.tetkodict-en.e93d880e77d25c616388.js","app-thkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-thkodict-ko.e93d880e77d25c616388.js","app-thkodict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-thkodict-th.e93d880e77d25c616388.js","app-m.thkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.thkodict-ko.e93d880e77d25c616388.js","app-trkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-trkodict-ko.e93d880e77d25c616388.js","app-trkodict-tr":"https://ssl.pstatic.net/dicimg/alldict3/js/app-trkodict-tr.e93d880e77d25c616388.js","app-m.trkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.trkodict-ko.e93d880e77d25c616388.js","app-m.trkodict-tr":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.trkodict-tr.e93d880e77d25c616388.js","app-uzkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-uzkodict-ko.e93d880e77d25c616388.js","app-uzkodict-uz":"https://ssl.pstatic.net/dicimg/alldict3/js/app-uzkodict-uz.e93d880e77d25c616388.js","app-m.uzkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.uzkodict-ko.e93d880e77d25c616388.js","app-m.uzkodict-uz":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.uzkodict-uz.e93d880e77d25c616388.js","app-mnkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-mnkodict-ko.e93d880e77d25c616388.js","app-mnkodict-mn":"https://ssl.pstatic.net/dicimg/alldict3/js/app-mnkodict-mn.e93d880e77d25c616388.js","app-m.mnkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.mnkodict-ko.e93d880e77d25c616388.js","app-hrkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hrkodict-ko.e93d880e77d25c616388.js","app-hrkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hrkodict-en.e93d880e77d25c616388.js","app-m.hrkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hrkodict-ko.e93d880e77d25c616388.js","app-m.hrkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hrkodict-en.e93d880e77d25c616388.js","app-hakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hakodict-ko.e93d880e77d25c616388.js","app-hakodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hakodict-en.e93d880e77d25c616388.js","app-m.hakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hakodict-ko.e93d880e77d25c616388.js","app-m.hakodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hakodict-en.e93d880e77d25c616388.js","app-tlkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-tlkodict-ko.e93d880e77d25c616388.js","app-tlkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-tlkodict-en.e93d880e77d25c616388.js","app-m.tlkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.tlkodict-ko.e93d880e77d25c616388.js","app-m.tlkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.tlkodict-en.e93d880e77d25c616388.js","app-lokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-lokodict-ko.e93d880e77d25c616388.js","app-lokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-lokodict-en.e93d880e77d25c616388.js","app-m.lokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.lokodict-ko.e93d880e77d25c616388.js","app-m.lokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.lokodict-en.e93d880e77d25c616388.js","app-urkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-urkodict-ko.e93d880e77d25c616388.js","app-urkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-urkodict-en.e93d880e77d25c616388.js","app-m.urkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.urkodict-ko.e93d880e77d25c616388.js","app-m.urkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.urkodict-en.e93d880e77d25c616388.js","app-dakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-dakodict-ko.e93d880e77d25c616388.js","app-dakodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-dakodict-en.e93d880e77d25c616388.js","app-m.dakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.dakodict-ko.e93d880e77d25c616388.js","app-m.dakodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.dakodict-en.e93d880e77d25c616388.js","app-nokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nokodict-ko.e93d880e77d25c616388.js","app-nokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-nokodict-en.e93d880e77d25c616388.js","app-m.nokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nokodict-ko.e93d880e77d25c616388.js","app-m.nokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.nokodict-en.e93d880e77d25c616388.js","app-hekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hekodict-ko.e93d880e77d25c616388.js","app-hekodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-hekodict-en.e93d880e77d25c616388.js","app-m.hekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hekodict-ko.e93d880e77d25c616388.js","app-m.hekodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.hekodict-en.e93d880e77d25c616388.js","app-vikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-vikodict-ko.e93d880e77d25c616388.js","app-vikodict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-vikodict-vi.e93d880e77d25c616388.js","app-m.vikodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.vikodict-ko.e93d880e77d25c616388.js","app-ukkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-ukkodict-ko.e93d880e77d25c616388.js","app-ukkodict-uk":"https://ssl.pstatic.net/dicimg/alldict3/js/app-ukkodict-uk.e93d880e77d25c616388.js","app-m.ukkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.ukkodict-ko.e93d880e77d25c616388.js","app-m.ukkodict-uk":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.ukkodict-uk.e93d880e77d25c616388.js","app-kmkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kmkodict-ko.e93d880e77d25c616388.js","app-kmkodict-km":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kmkodict-km.e93d880e77d25c616388.js","app-m.kmkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kmkodict-ko.e93d880e77d25c616388.js","app-m.kmkodict-km":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kmkodict-km.e93d880e77d25c616388.js","app-kakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kakodict-ko.e93d880e77d25c616388.js","app-kakodict-ka":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kakodict-ka.e93d880e77d25c616388.js","app-m.kakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kakodict-ko.e93d880e77d25c616388.js","app-m.kakodict-ka":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kakodict-ka.e93d880e77d25c616388.js","app-sqkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-sqkodict-ko.e93d880e77d25c616388.js","app-sqkodict-sq":"https://ssl.pstatic.net/dicimg/alldict3/js/app-sqkodict-sq.e93d880e77d25c616388.js","app-m.sqkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.sqkodict-ko.e93d880e77d25c616388.js","app-m.sqkodict-sq":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.sqkodict-sq.e93d880e77d25c616388.js","app-enkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enkodict-ko.e93d880e77d25c616388.js","app-enkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enkodict-en.e93d880e77d25c616388.js","app-m.enkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enkodict-ko.e93d880e77d25c616388.js","app-m.enkodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enkodict-en.e93d880e77d25c616388.js","app-kokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kokodict-ko.e93d880e77d25c616388.js","app-kokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kokodict-en.e93d880e77d25c616388.js","app-kokodict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kokodict-ja.e93d880e77d25c616388.js","app-kokodict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kokodict-vi.e93d880e77d25c616388.js","app-kokodict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-kokodict-zh_CN.e93d880e77d25c616388.js","app-m.kokodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kokodict-ko.e93d880e77d25c616388.js","app-m.kokodict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kokodict-en.e93d880e77d25c616388.js","app-m.kokodict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kokodict-ja.e93d880e77d25c616388.js","app-m.kokodict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kokodict-vi.e93d880e77d25c616388.js","app-m.kokodict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kokodict-zh_CN.e93d880e77d25c616388.js","app-jakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-jakodict-ko.e93d880e77d25c616388.js","app-jakodict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-jakodict-ja.e93d880e77d25c616388.js","app-m.jakodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.jakodict-ko.e93d880e77d25c616388.js","app-m.kojadict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kojadict-ja.e93d880e77d25c616388.js","app-zhkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-zhkodict-ko.e93d880e77d25c616388.js","app-zhkodict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-zhkodict-zh_CN.e93d880e77d25c616388.js","app-m.zhkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.zhkodict-ko.e93d880e77d25c616388.js","app-frkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-frkodict-ko.e93d880e77d25c616388.js","app-frkodict-fr":"https://ssl.pstatic.net/dicimg/alldict3/js/app-frkodict-fr.e93d880e77d25c616388.js","app-m.frkodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.frkodict-ko.e93d880e77d25c616388.js","app-dekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-dekodict-ko.e93d880e77d25c616388.js","app-dekodict-de":"https://ssl.pstatic.net/dicimg/alldict3/js/app-dekodict-de.e93d880e77d25c616388.js","app-m.dekodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.dekodict-ko.e93d880e77d25c616388.js","app-m.dekodict-de":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.dekodict-de.e93d880e77d25c616388.js","app-eskodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-eskodict-ko.e93d880e77d25c616388.js","app-eskodict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-eskodict-es.e93d880e77d25c616388.js","app-m.eskodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.eskodict-ko.e93d880e77d25c616388.js","app-cckodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-cckodict-ko.e93d880e77d25c616388.js","app-m.cckodict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.cckodict-ko.e93d880e77d25c616388.js","app-m.koardict-ar":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.koardict-ar.e93d880e77d25c616388.js","app-m.koesdict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.koesdict-es.e93d880e77d25c616388.js","app-m.kofrdict-fr":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kofrdict-fr.e93d880e77d25c616388.js","app-m.kothdict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kothdict-th.e93d880e77d25c616388.js","app-m.koiddict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.koiddict-id.e93d880e77d25c616388.js","app-m.komndict-mn":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.komndict-mn.e93d880e77d25c616388.js","app-m.korudict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.korudict-ru.e93d880e77d25c616388.js","app-m.kovidict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kovidict-vi.e93d880e77d25c616388.js","app-m.kozhdict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.kozhdict-zh_CN.e93d880e77d25c616388.js","app-m.koendict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.koendict-en.e93d880e77d25c616388.js","app-_ivpdict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-_ivpdict-ko.e93d880e77d25c616388.js","app-_ivpdict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-_ivpdict-ja.e93d880e77d25c616388.js","app-_ivpdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-_ivpdict-en.e93d880e77d25c616388.js","app-_ivpdict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-_ivpdict-zh_CN.e93d880e77d25c616388.js","app-m._ivpdict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m._ivpdict-ko.e93d880e77d25c616388.js","app-m._ivpdict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m._ivpdict-ja.e93d880e77d25c616388.js","app-m._ivpdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m._ivpdict-en.e93d880e77d25c616388.js","app-m._ivpdict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m._ivpdict-zh_CN.e93d880e77d25c616388.js","app-enkothesaurus-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enkothesaurus-ko.e93d880e77d25c616388.js","app-enkothesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enkothesaurus-en.e93d880e77d25c616388.js","app-m.enkothesaurus-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enkothesaurus-ko.e93d880e77d25c616388.js","app-m.enkothesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enkothesaurus-en.e93d880e77d25c616388.js","app-enendict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-en.e93d880e77d25c616388.js","app-enendict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-ko.e93d880e77d25c616388.js","app-enendict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-zh_CN.e93d880e77d25c616388.js","app-enendict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-ru.e93d880e77d25c616388.js","app-enendict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-es.e93d880e77d25c616388.js","app-enendict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-pt.e93d880e77d25c616388.js","app-enendict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-ja.e93d880e77d25c616388.js","app-enendict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-vi.e93d880e77d25c616388.js","app-enendict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-id.e93d880e77d25c616388.js","app-enendict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enendict-th.e93d880e77d25c616388.js","app-m.enendict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-en.e93d880e77d25c616388.js","app-m.enendict-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-ko.e93d880e77d25c616388.js","app-m.enendict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-zh_CN.e93d880e77d25c616388.js","app-m.enendict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-ru.e93d880e77d25c616388.js","app-m.enendict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-es.e93d880e77d25c616388.js","app-m.enendict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-pt.e93d880e77d25c616388.js","app-m.enendict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-ja.e93d880e77d25c616388.js","app-m.enendict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-vi.e93d880e77d25c616388.js","app-m.enendict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-id.e93d880e77d25c616388.js","app-m.enendict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enendict-th.e93d880e77d25c616388.js","app-eniddict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-eniddict-en.e93d880e77d25c616388.js","app-eniddict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-eniddict-id.e93d880e77d25c616388.js","app-m.eniddict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.eniddict-en.e93d880e77d25c616388.js","app-m.eniddict-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.eniddict-id.e93d880e77d25c616388.js","app-enenthesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-en.e93d880e77d25c616388.js","app-enenthesaurus-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-ko.e93d880e77d25c616388.js","app-enenthesaurus-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-zh_CN.e93d880e77d25c616388.js","app-enenthesaurus-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-ru.e93d880e77d25c616388.js","app-enenthesaurus-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-es.e93d880e77d25c616388.js","app-enenthesaurus-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-pt.e93d880e77d25c616388.js","app-enenthesaurus-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-ja.e93d880e77d25c616388.js","app-enenthesaurus-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-vi.e93d880e77d25c616388.js","app-enenthesaurus-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-id.e93d880e77d25c616388.js","app-enenthesaurus-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enenthesaurus-th.e93d880e77d25c616388.js","app-m.enenthesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-en.e93d880e77d25c616388.js","app-m.enenthesaurus-ko":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-ko.e93d880e77d25c616388.js","app-m.enenthesaurus-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-zh_CN.e93d880e77d25c616388.js","app-m.enenthesaurus-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-ru.e93d880e77d25c616388.js","app-m.enenthesaurus-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-es.e93d880e77d25c616388.js","app-m.enenthesaurus-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-pt.e93d880e77d25c616388.js","app-m.enenthesaurus-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-ja.e93d880e77d25c616388.js","app-m.enenthesaurus-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-vi.e93d880e77d25c616388.js","app-m.enenthesaurus-id":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-id.e93d880e77d25c616388.js","app-m.enenthesaurus-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enenthesaurus-th.e93d880e77d25c616388.js","app-enzhdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enzhdict-en.e93d880e77d25c616388.js","app-enzhdict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enzhdict-zh_CN.e93d880e77d25c616388.js","app-m.enzhdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enzhdict-en.e93d880e77d25c616388.js","app-m.enzhdict-zh_CN":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enzhdict-zh_CN.e93d880e77d25c616388.js","app-enrudict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enrudict-en.e93d880e77d25c616388.js","app-enrudict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enrudict-ru.e93d880e77d25c616388.js","app-m.enrudict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enrudict-en.e93d880e77d25c616388.js","app-m.enrudict-ru":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enrudict-ru.e93d880e77d25c616388.js","app-enesdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enesdict-en.e93d880e77d25c616388.js","app-enesdict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enesdict-es.e93d880e77d25c616388.js","app-m.enesdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enesdict-en.e93d880e77d25c616388.js","app-m.enesdict-es":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enesdict-es.e93d880e77d25c616388.js","app-enptdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enptdict-en.e93d880e77d25c616388.js","app-enptdict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enptdict-pt.e93d880e77d25c616388.js","app-m.enptdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enptdict-en.e93d880e77d25c616388.js","app-m.enptdict-pt":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enptdict-pt.e93d880e77d25c616388.js","app-enjadict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enjadict-en.e93d880e77d25c616388.js","app-enjadict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enjadict-ja.e93d880e77d25c616388.js","app-m.enjadict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enjadict-en.e93d880e77d25c616388.js","app-m.enjadict-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enjadict-ja.e93d880e77d25c616388.js","app-envidict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-envidict-en.e93d880e77d25c616388.js","app-envidict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-envidict-vi.e93d880e77d25c616388.js","app-m.envidict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.envidict-en.e93d880e77d25c616388.js","app-m.envidict-vi":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.envidict-vi.e93d880e77d25c616388.js","app-enthdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enthdict-en.e93d880e77d25c616388.js","app-enthdict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enthdict-th.e93d880e77d25c616388.js","app-m.enthdict-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enthdict-en.e93d880e77d25c616388.js","app-m.enthdict-th":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enthdict-th.e93d880e77d25c616388.js","app-enjathesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enjathesaurus-en.e93d880e77d25c616388.js","app-enjathesaurus-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-enjathesaurus-ja.e93d880e77d25c616388.js","app-m.enjathesaurus-en":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enjathesaurus-en.e93d880e77d25c616388.js","app-m.enjathesaurus-ja":"https://ssl.pstatic.net/dicimg/alldict3/js/app-m.enjathesaurus-ja.e93d880e77d25c616388.js","0":0 };</script><script src="https://ssl.pstatic.net/dicimg/alldict3/js/vendor.184beb7920b0978b1ab2.js"></script><script src="https://ssl.pstatic.net/dicimg/alldict3/js/app-common.e93d880e77d25c616388.js"></script><script src="https://ssl.pstatic.net/dicimg/alldict3/js/main.e93d880e77d25c616388.js"></script><script type="text/javascript" src="https://ssl.pstatic.net/dicimg/alldict3/js/app-enkodict-en.e93d880e77d25c616388.js"></script><link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/dicimg/gdic/style/202406041520/css/layout.css?2024072015"><link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/dicimg/gdic/style/202406041520/css/common.css?2024072015"><link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/dicimg/gnbcommon/style/gnbplatform/css/onenaver_gnb.css?2024072015"><link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/dicimg/gdic/style/202406041520/css/darkmode_pc.css?2024072015"><meta charset="UTF-8">
+<meta name="referrer" content="always">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Provide American/British pronunciation, kinds of dictionaries, plenty of Thesaurus, preferred dictionary setting option, advanced search function and Wordbook">
+<meta name="keywords" content="Mobile Web English Dictionary, Mobile English Dictionary, Mobile English-Korean Dictionary, Mobile English-English Dictionary, Mobile Web English-Englsih Dictionary, NAVER Mobile English-English Dictionary, English Ditionary, English, Korean-English Dictionary, English-Korean Dictionary, English Word, English Word,Search English Word, English-English Dictionary">
+<meta property="og:title" content="Naver English-Korean Dictionary">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://en.dict.naver.com/en/search?query=information&amp;range=all">
+<meta property="og:site_name" content="NAVER  dictionary">
+<meta property="og:description" content="Naver English-Korean Dictionary">
+<meta property="og:image" content="https://ssl.pstatic.net/dicimg/alldic/newImg/enkodict.png?01">
+<meta name="twitter:title" content="Naver English-Korean Dictionary">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@NAVER_endictionary">
+<meta name="twitter:description" content="Naver English-Korean Dictionary">
+<meta name="twitter:image" content="https://ssl.pstatic.net/dicimg/alldic/newImg/enkodict.png?01">
+<title>Naver English-Korean Dictionary</title>
+<link rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/dicimg/gdic/style/202406041520/css/enkodict.css">
+	<link rel="shortcut icon" href="https://ssl.pstatic.net/dicimg/favicons/dict/v1/mhome/favicon.ico" type="image/x-icon"><script type="text/javascript" src="https://ssl.pstatic.net/tveta/libs/ndpsdk/prod/ndp-loader.js"></script><script src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?2024072015" class="lazyload" charset="utf-8"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-52591" src="https://ssl.pstatic.net/dicimg/alldict3/js/52591.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-1032" src="https://ssl.pstatic.net/dicimg/alldict3/js/1032.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-63449" src="https://ssl.pstatic.net/dicimg/alldict3/js/63449.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-85841" src="https://ssl.pstatic.net/dicimg/alldict3/js/85841.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-71619" src="https://ssl.pstatic.net/dicimg/alldict3/js/71619.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-25583" src="https://ssl.pstatic.net/dicimg/alldict3/js/25583.e93d880e77d25c616388.js"></script><script charset="utf-8" data-webpack="alldict3-client:chunk-71595" src="https://ssl.pstatic.net/dicimg/alldict3/js/71595.e93d880e77d25c616388.js"></script></head><body class="is-scrollmode is-darkmode">
+	<div id="u_skip">
+		<a href="#content"><span>본문 영역으로 바로가기</span></a>
+	</div>
+	<!--[D] 메인페이지 main 클래스 추가 -->
+	<div id="wrap">
+		<!-- header -->
+		<div id="header">
+			<!-- 원네이버 중국어사전 GNB 마크업 -->
+			<!--[D] 다국어 일때 Nmulti_lang 클래스 추가 -->
+			<!-- 원네이버 중국어사전 GNB 마크업 -->
+<!--[D] 다국어 일때 Nmulti_lang 클래스 추가 -->
+<div class="Ngnb_wrap Nmulti_lang">
+	<div class="Ngnb">
+		<div class="Ngnb_inner">
+			<a href="https://www.naver.com" class="Nlogo_link" onclick="clickcr(this, 'gnb.naver','','',event);"><span class="Nsp_gnb">NAVER</span></a>
+			<div class="Ngnb_service">
+				<h1 class="Nservice_item"><a href="https://dict.naver.com" class="Nhome Ndic" onclick="clickcr(this, 'gnb.dic','','',event);"><span class="Nsp_gnb">Dictionary</span></a></h1>
+				<span class="Nservice_subitem"><a href="https://papago.naver.com/" class="Ntranslate" onclick="clickcr(this, 'gnb.translation','','',event);"><span class="Nsp_gnb">papago</span></a>
+				</span>
+				<span class="Nservice_subitem"><a href="https://open-pro.dict.naver.com/_ivo/home" class="Nopenpro" onclick="clickcr(this, 'gnb.opendictpro','','',event);"><span class="Nsp_gnb">OPEN Dict. PRO</span></a>
+				</span>
+				<span class="Nservice_subitem"><a href="https://dict.naver.com/userstranslate/" class="Nusertranslation" onclick="clickcr(this, 'gnb.usetrans','','',event);"><span class="Nsp_gnb">User translation</span></a>
+				</span>
+			</div>
+
+			<div class="Ngnb_common">
+				<!-- GNB -->
+				<div id="gnb">
+				</div>
+				<!-- //GNB -->
+			</div>
+		</div>
+	</div>
+	<div class="Nlnb" id="Nlnb">
+		<div class="Nlnb_inner">
+			<ul class="Nnav">
+				<!--[D] 선택메뉴에 Nnav_item_active 추가-->
+				<li class="Nnav_cell"><a href="https://dict.naver.com" id="_id_dichome_href" onclick="clickcr(this, 'DNB.dichome','','',event);" class="Nnav_item">Dictionary Home</a><span id="_id_dichome_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_dichome_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://endic.naver.com" id="_id_endic_href" onclick="clickcr(this, 'DNB.endic','','',event);" class="Nnav_item">English</a><span id="_id_endic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_endic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://ko.dict.naver.com" id="_id_krdic_href" onclick="clickcr(this, 'DNB.krdic','','',event);" class="Nnav_item">Korean</a><span id="_id_krdic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_krdic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://hanja.dict.naver.com" id="_id_hanja_href" onclick="clickcr(this, 'DNB.hanja','','',event);" class="Nnav_item">Hanja</a><span id="_id_hanja_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_hanja_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://ja.dict.naver.com" id="_id_jpdic_href" onclick="clickcr(this, 'DNB.jpdic','','',event);" class="Nnav_item">Japanese</a><span id="_id_jpdic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_jpdic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://zh.dict.naver.com" id="_id_cndic_href" onclick="clickcr(this, 'DNB.cndic','','',event);" class="Nnav_item">Chinese</a><span id="_id_cndic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_cndic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://dict.naver.com/frkodict/" id="_id_frdic_href" onclick="clickcr(this, 'DNB.frdic','','',event);" class="Nnav_item">French</a><span id="_id_frdic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_frdic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://dict.naver.com/eskodict/" id="_id_spdic_href" onclick="clickcr(this, 'DNB.spdic','','',event);" class="Nnav_item">Spanish</a><span id="_id_spdic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_spdic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+				<li class="Nnav_cell"><a href="https://dict.naver.com/dekodict/" id="_id_dedic_href" onclick="clickcr(this, 'DNB.dedic','','',event);" class="Nnav_item">German</a><span id="_id_dedic_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_dedic_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span></li>
+
+				<li class="Nnav_cell Nmore">
+					<!--[D] 마우스오버시 Nnav_item_active 추가
+							Nmore의 영역을 커서가 벗어나면 해당 Nnav_item의 Nnav_item_active 삭제
+					-->
+					<a href="javascript:;" class="Nnav_item" id="_id_more_layer" onclick="clickcr(this, 'DNB.lmore', '', '',event);"><span class="Nnav_txt">More</span><span id="_id_more_new" style="display:none" class="Nsp_gnb Nnew">신규추가</span><span id="_id_more_up" style="display:none" class="Nsp_gnb Nupdate">업데이트</span><span class="Nsp_gnb Nico_more"></span></a>
+					<div class="Nmore_dic" id="_id_li_contain"></div>
+				</li>
+			</ul>
+
+			<div class="Nlnb_tool">
+				<a href="#" class="Nlink" style="display:none">작은창 사전</a>
+				<a href="#" class="Nlink" style="display:none">단어장</a>
+				<div class="Nlang_setting">
+					<label for="select_lang" class="Nlabel">Change language</label>
+					<button id="select_lang" class="Nbtn_select"><span>English</span><span class="Nsp_gnb Nico_more">더보기</span></button>
+
+					<div class="Nlist">
+						<!-- [D] 선택된 언어에 class="Nitem_active" 추가 -->
+						<a href="javascript:void(0)" data-lang="ko" class="Nitem">한국어<span class="Nline"></span></a>
+						<a href="javascript:void(0)" data-lang="en" class="Nitem Nitem_active" onclick="return false;">English<span class="Nline"></span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- //원네이버 GNB -->
+ <div class="search_area">
+	<div class="search_inner">
+		<h1 class="_multilang multilang"><a href="#/main" onclick="clickcr(this, 'nam.dic','','',event);" aria-label="English-Korean Dict."></a></h1>
+		<div class="keyword_search_wrap" id="searchArea">
+					<div class="button_area">
+						<button type="button" class="btn_dict" id="redirectEnendict">Dictionary</button>
+						<button type="button" class="btn_thesaurus" id="redirectThesaurusdict">Thesaurus</button>
+					</div>
+			<div class="keyword_search">
+				<div class="keyword_search_inner">
+					<div class="keyword_wrap">
+						<input type="text" name="query" id="ac_input" title="검색어 입력" value="" accesskey="s" autocomplete="off" autocapitalize="off" autocorrect="off" maxlength="55" class="keyword" tabindex="0" data-value="">
+					</div>
+					<span class="btn_wrap type_bar my_type_bar" style="display:none"><span class="bar"></span></span>
+					<span class="btn_wrap keyboard" id="writerBtndiv" style="display:none"><button class="btn_keyboard mainBtn" id="writerBtn">문자입력기</button></span>
+				</div>
+				<!--[D] 자동완성 창이 열려있을 때 active 클래스 추가-->
+				<div id="ac_layer" class="autocomplete_wrap">
+					<button class="btn_autocomplete _btn_autocomplete">자동완성</button>
+					<div class="autocomplete _autocomplete"></div>
+				</div>
+				<div class="ly_my_keyword _reviewedWord">
+				</div>
+				<button onclick="clickcr(this, 'sch.go','','',event); return false;" class="btn_search" title="Search">검색</button>
+			</div>
+					<button class="btn_search_detail my_btn_search_detail" onclick="clickcr(this, 'sch.detail','','',event);">Advanced search</button>
+		</div>
+	</div>
+
+	<div class="my_keyword_wrap" id="ac_ReviewedWord_layer" style="display:none;">
+		<h3 class="blind">내가 찾은 검색어</h3>
+		<!--[D] 라인이 2줄을 넘어가면 앞쪽에서 삭제 -->
+		<ul class="my_keyword_list">
+			<li class="btn_all_del"><button>전체삭제</button></li>
+		</ul>
+	</div>
+	<!-- 详细搜索layer -->
+	<div class="ly_search_detail my_ly_search_detail" style="display: none;">
+		<ul class="tab_menu_list">
+			<li class="tab_menu_item my_tab_menu_item my_tab_menu_item1 active">
+				<a href="#" class="tab_menu" onclick="clickcr(this, 'dti.section','','',event);">Advanced Search</a>
+			</li>
+		</ul>
+		<div class="tab_panel my_tab_panel my_tab_panel1" style="display: block;">
+			<form>
+	
+				<div class="detail_item">
+					Words that start with
+					<input type="text" placeholder="es" class="text_field my_front_match my_tab1_part2" title="기준 단어">
+				</div>
+				<div class="detail_item">
+					Words that include
+					<input type="text" placeholder="es" class="text_field my_middle_match my_tab1_part2" title="기준 단어">
+				</div>
+				<div class="detail_item">
+					Words that end with
+					<input type="text" placeholder="es" class="text_field my_end_match my_tab1_part2" title="기준 단어">
+				</div>
+				<div class="detail_item">
+					Words that have
+					<input type="text" placeholder="2" class="num_field my_front_num my_tab1_part2" title="글자 수" maxlength="1"> letters before
+					<input type="text" placeholder="es" class="text_field my_frontNum_match my_tab1_part2" title="기준 단어">
+					
+	
+				</div>
+				<div class="detail_item">
+					Words that have
+					<input type="text" placeholder="2" class="num_field my_end_num my_tab1_part2" title="글자 수" maxlength="1"> letters after
+					<input type="text" placeholder="es" class="text_field my_endNum_match my_tab1_part2" title="기준 단어">
+					
+				</div>
+				<div class="panel_footer">
+					<button class="btn_submit my_btn_submit1" onclick="clickcr(this, 'dti.search','','',event);">Search</button>
+					<a href="https://blog.naver.com/dic_master/221870664246" class="tip_link" onclick="clickcr(this, 'dti.guide','','',event);">Search Tip</a>
+				</div>
+			</form>
+		</div>
+		<div class="tab_panel my_tab_panel my_tab_panel2" style="display: none;">
+			<form>
+				<div class="detail_item">
+					Words that consisting of consonants <input type="text" placeholder="ㅂㄷ" class="text_field my_query_char1" title="기준 자음">
+				</div>
+				<div class="detail_item">
+					Words that consisting of vowels <input type="text" placeholder="ㅏㅡ" class="text_field my_query_char2" title="기준 모음">
+				</div>
+				<input type="hidden" id="initial_word" name="initial_word" title="자모검색" value="">
+				<div class="panel_footer">
+					<button class="btn_submit my_btn_submit2" onclick="clickcr(this, 'dti.search','','',event);">Search</button>
+					<a href="https://blog.naver.com/dic_master/221870664246" class="tip_link" onclick="clickcr(this, 'dti.guide','','',event);">Search Tip</a>
+				</div>
+			</form>
+		</div>
+		<div class="tab_panel my_tab_panel my_tab_panel3" role="tabpanel" style="display: none;">
+			<form>
+				<div class="detail_item">
+					한자의 총 획수가
+					<input type="text" placeholder="2" class="num_field my_num_field" title="획수 입력">
+					획인 단어
+				</div>
+				<div class="panel_footer">
+					<button class="btn_submit my_btn_submit3" onclick="clickcr(this, 'dti.search','','',event);">Search</button>
+					<a href="https://blog.naver.com/dic_master/221870664246" class="tip_link" onclick="clickcr(this, 'dti.guide','','',event);">Search Tip</a>
+				</div>
+			</form>
+		</div>
+		<div class="tab_panel my_tab_panel my_tab_panel4" role="tabpanel" style="display: none;">
+			<form class="_no_scroll">
+				<div class="stroke_wrap">
+					<div class="inner">
+					</div>
+				</div>
+			</form>
+			<div class="panel_footer">
+	            <button class="btn_submit my_btn_submit4" onclick="clickcr(this, 'dti.search','','',event);">Search</button>
+	        </div>
+		</div>
+		<div class="tab_panel my_tab_panel my_tab_panel5" role="tabpanel" style="display: none;">
+			<form class="_no_scroll">
+				<div class="stroke_wrap">
+					<div class="inner">
+					</div>
+				</div>
+			</form>
+			<div class="panel_footer">
+	            <div class="desc">모양자 선택 (최대 2개)</div>
+	            <div class="select_area">
+	                <div class="select_item my_select_item select_item1" lang="zh"></div>
+	                <div class="select_item my_select_item select_item2" lang="zh"></div>
+	            </div>
+	            <button class="btn_submit my_btn_submit5" onclick="clickcr(this, 'dti.search','','',event);">Search</button>
+	        </div>
+		</div>
+		<button type="button" class="btn_close my_search_detail_btn_close" onclick="clickcr(this, 'dti.close','','',event);">Close</button>
+	</div>
+	
+</div>
+
+		</div>
+		<!-- //header -->
+		<!-- content -->
+		<div id="container">
+			<div id="content"></div>
+			<div id="aside">
+					<div class="section section_side_menu">
+						<ul class="side_menu">
+									<li class="item"><a href="javascript:;" onclick="clickcr(this, 'asi.wordbook','','',event);" class="link _wordbook_platform_go">Wordbook</a></li>
+									<li class="item"><a href="https://english.dict.naver.com/english-dictionary/#/main" onclick="clickcr(this, 'asi.enendict','','',event);" target="_blank" class="link ">EN-EN Dictionary</a></li>
+									<li class="item"><a href="javascript:;" onclick="clickcr(this, 'asi.minidic','','',event);" id="pcAsideMiniDict" class="link ">Popup Dictionary</a></li>
+									<li class="item"><a href="https://open.dict.naver.com/participation/word_list.dict#common/register/en/ko/" onclick="clickcr(this, 'asi.opendict','','',event);" target="_blank" class="link ">Open Dictionary</a></li>
+						</ul>
+					</div>
+				<div class="section _aside_noticeWithDST" id="notice" style="display:none"></div>
+					<div class="section _ad_area" id="f240240_endic" style="display:none"></div>
+				<div class="section section_searching_words" id="my_section_reviewedWord" style="display:none">
+			
+				</div>
+					<div class="section" id="section_popup" style="display:none">
+						<h3 class="blind">약어, 발음표 보기</h3>
+						<div class="table_pop_btns">
+			
+						</div>
+					</div>
+					<div class="section">
+						<h3 class="section_title">Dictionary Using Tips</h3>
+						<ul class="use_tips _asideInfoUseTip"></ul>
+						<div class="current_btns">
+							<button class="btn_prev" onclick="clickcr(this, 'hlp.prev','','1',event);">이전 사용팁</button>
+							<button class="btn_next" onclick="clickcr(this, 'hlp.next','','1',event);">다음 사용팁</button>
+						</div>
+					</div>
+			
+				<div class="section" id="aside_publishing" style="display:none">
+			
+				</div>
+			
+				<div class="banner_area">
+			
+				</div>
+				<div class="open_banner" id="open_banner">
+			
+				</div>
+			</div>
+		</div>
+		<!-- //content -->
+		<!-- footer -->
+		<div id="footer">
+			<a href="javascript:;" class="btn_top _btn_top_click">맨 위로 가기</a>
+			<div class="u_platform_helpdict" style="display:none" id="autolinkdiv">
+			</div>
+			<div class="footer_inner">
+				<div class="links">
+					<a target="_blank" onclick="clickcr(this, 'fot.blog','','',event);" href="https://blog.naver.com/dic_master">Dictionary Official Blog</a>‎
+						<a onclick="clickcr(this, 'fot.help','','',event);" target="_blank" href="https://help.naver.com/alias/contents2/dictionary/dic_new1.naver">Dictionary Customer Center</a>
+			
+				</div>
+				<div class="policy">
+					The copyright for this content belongs to the provider. You may be held legally accountable according to copyright laws if you make illegal copies of this content. <p></p>
+					<div class="copyright">
+						<a href="https://www.navercorp.com/" target="_blank" class="logo" onclick="clickcr(this, 'fot.naver','','',event);">
+							<img src="https://ssl.pstatic.net/dicimg/gdic/style/202406041520/img/footer_naver_logo_dark.png" width="58" height="11" alt="NAVER">
+						</a>
+						<!-- N=a:fot.nhn -->
+						<em>Copyright ©</em>
+						<a href="https://www.navercorp.com/" target="_blank">NAVER Corp.</a>
+						<!-- N=a:fot.nhncorp -->
+						<span>All Rights Reserved.</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- //footer -->
+			<div class="ly_wordbook" id="pcLyAddWordBook" style="display: none;">
+				<div class="inner">
+					<div class="ly_cont _ly_cont_main" style="display: none;">
+		
+					</div>
+					<div class="dimmed"></div>
+				</div>
+				<div class="ly_cont _ly_cont_sub" style="display: none;">
+		
+				</div>
+				<!-- 이용약관 -->
+				<div class="ly_cont _agreeZhkodictWordbook_ly_inner" style="display: none;">
+		            <div class="ly_inner">
+		                <div class="title_area">
+							<strong class="title">Accept terms and conditions</strong>
+							<p class="desc">You can use it after agreeing to the terms of use.</p>
+		                </div>
+		            </div>
+					<div class="button_area">
+						<a href="javascript:;" role="button" class="btn_common _goWordbook" target="_blank">약관보기</a>
+					</div>
+		        </div>
+			</div>
+			<div class="ly_wordbook_saved _ly_wordbook_saved" style="display: none;">
+				<div class="ly_cont">
+					<div class="notice_wrap">
+						<p class="notice">
+							The word has been saved.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="ly_wordbook_agreement _ly_wordbook_agreement" style="display: none;">
+				<div class="ly_cont">
+		
+				</div>
+			</div>
+		<div class="ly_write_step _ly_write_step" style="display: none;">
+			<h4 class="title">획순보기(총{0}획)<button type="button" class="btn_close">닫기</button></h4>
+			<div class="view" id="ly_write_step"></div>
+			<button type="button" class="btn_close">닫기</button>
+		</div>
+		<div class="unit_negative_tooltip _isBeShared tooltip negative" id="unitNegativeTooltip" style="display:none;">
+			<div class="tooltip_inner">
+				<p>It may contain meaning to discriminate/discriminate against a particular object.</p>
+				<button type="button" class="btn_close"></button>
+			</div>
+		</div>
+		<div class="ly_listen _ly_listen_globalPronLayer" style="display:none"></div>
+		<div class="ly_cp_list _ly_cp_list_global_cp" style="display:none"></div>
+	</div>
+
+</body></html>

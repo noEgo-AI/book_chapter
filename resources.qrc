@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>picture/age.jpg</file>
+    <file>picture/calendar.jpg</file>
+    <file>picture/hard.jpg</file>
+    <file>picture/insertword.jpg</file>
+    <file>picture/LOOKBACK.jpg</file>
+    <file>picture/menu.jpg</file>
+    <file>picture/name.jpg</file>
+    <file>picture/password.jpg</file>
+    <file>picture/profile.jpg</file>
+    <file>picture/total end.jpg</file>
+  </qresource>
+</RCC>
